@@ -10,11 +10,15 @@
   <img align="center" alt="EXpress" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor">
 </div>
 
------------
+---
 
 ### :sparkles: Como foi desenvolvido esse projeto:
-Nesse projeto foi desenvolvido uma API de um CRUD posts de blog (com o Sequelize)
+Nesse projeto foi desenvolvido uma API de um CRUD posts de blog usando `ORM` com o pacote `sequelize` 
 Implementado alguns endpoints (seguindo os princípios do REST) que estarão conectados ao seu banco de dados
+
+ - Criar e associar tabelas usando `models` do `sequelize`
+ - Construir endpoints para consumir os models que criar 
+ - Fazer um `CRUD` com o `ORM`
 
 ------------
 
