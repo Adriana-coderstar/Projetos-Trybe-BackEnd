@@ -1,4 +1,4 @@
-## :pushpin: Projeto Blogs API
+## :pushpin: Trybe Futebol Clube - TFC
 #### Realizado pelo curso de Desenvolvimento Web Full Stack pela Trybe
 #### Modulo Back-end
 ------
